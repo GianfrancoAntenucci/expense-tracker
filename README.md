@@ -27,7 +27,7 @@ expense_tracker/
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/GianfrancoAntenucci/expense-tracker.git
 cd expense-tracker
 ```
 
